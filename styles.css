@@ -3,6 +3,10 @@
   background-color: grey;
 }
 
-#top {
-  float: left;
+#parent {
+  white-space: nowrap;
+}
+
+#child {
+  display: inline-block;
 }
