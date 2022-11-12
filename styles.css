@@ -2,12 +2,8 @@
   box-sizing: border-box;
 }
 
-element.style {
+#body {
   background-color: grey;
-}
-
-#html {
-  background-color: blue;
 }
 
 #parent {
