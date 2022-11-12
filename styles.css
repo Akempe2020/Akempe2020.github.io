@@ -2,6 +2,9 @@
   box-sizing: border-box;
   background-color: grey;
 }
+#html {
+  background-color: blue;
+}
 
 #parent {
   white-space: nowrap;
@@ -9,4 +12,5 @@
 
 #child {
   display: inline-block;
+  background-color: red;
 }
