@@ -5,4 +5,5 @@
 #top {
   text-color: white;
   background-color: blue;
+  white-space: nowrap;
 }
