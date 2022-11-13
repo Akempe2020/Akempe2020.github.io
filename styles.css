@@ -8,11 +8,11 @@
 
 #parent {
   white-space: nowrap;
+  background-color: #5656d8
 }
 
 #child {
   display: inline-block;
-  background-color: red;
 }
 
 #p1 {
