@@ -15,8 +15,13 @@
 }
 
 #p {
-  background-color: blue;
+  background-color: #bebeff;
   margin: 0;
+}
+
+#header {
+  background-color: #bebeff;
+  text-align: center;
 }
 
 #sub {
